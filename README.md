@@ -10,3 +10,4 @@ Netlify:
 https://timely-haupia-48e99e.netlify.app
 
 GitHub Pages:
+https://detobone.github.io/Gif_Expert_First_React_Project/
