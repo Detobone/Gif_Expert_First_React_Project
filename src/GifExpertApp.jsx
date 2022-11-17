@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { AddCategory, GifGrid } from "./components";
 export const GifExpertApp = () => {
-  const [categories, setCategories] = useState(["One Punch"]);
+  const [categories, setCategories] = useState(["One Piece"]);
 
   const onAddCategory = (newCategory) => {
     // I can add later a validation for case sensitive ej. ONE puch, one punch
